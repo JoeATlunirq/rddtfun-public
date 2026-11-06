@@ -1,0 +1,12 @@
+{
+    "watch": [
+        "backend"
+    ],
+    "ext": "js,json",
+    "ignore": [
+        "backend/public/*",
+        "backend/data/*",
+        "backend/node_modules/*"
+    ],
+    "exec": "node backend/server.js"
+}

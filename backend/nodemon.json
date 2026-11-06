@@ -1,0 +1,11 @@
+{
+    "ext": "js,mjs,cjs,json",
+    "ignore": [
+        ".render-cache/**",
+        "public/**",
+        "data/**",
+        "tmp/**",
+        "node_modules/**",
+        "**/*.test.js"
+    ]
+}
